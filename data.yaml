@@ -1,0 +1,12 @@
+nc: 3
+names: ['artifact', 'crater', 'rock']
+
+roboflow:
+  workspace: mooncrater
+  project: mooncrater
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mooncrater/mooncrater/dataset/3
+test: C:/Users/Mama/Desktop/jupyter/test/images
+train: C:/Users/Mama/Desktop/jupyter/train/images
+val: C:/Users/Mama/Desktop/jupyter/valid/images
